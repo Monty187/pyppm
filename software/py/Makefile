@@ -1,3 +1,4 @@
+sudo make install
 
 # define the python major version to use for distutils compilation.
 PYVER=2
